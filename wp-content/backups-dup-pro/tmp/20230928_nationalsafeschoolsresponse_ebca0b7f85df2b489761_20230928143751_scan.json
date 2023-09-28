@@ -1,0 +1,424 @@
+{
+    "RPT": {
+        "ScanTime": "0.252 sec.",
+        "ScanFile": "20230928_nationalsafeschoolsresponse_ebca0b7f85df2b489761_20230928143751_scan.json",
+        "ScanCreated": "2023-09-28 14:37:55",
+        "ScanPath": "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/backups-dup-pro\/tmp\/20230928_nationalsafeschoolsresponse_ebca0b7f85df2b489761_20230928143751_scan.json"
+    },
+    "ARC": {
+        "Size": "203.4MB",
+        "DirCount": "298",
+        "FileCount": "5,273",
+        "FullCount": "5,571",
+        "USize": 213283826,
+        "UDirCount": 298,
+        "UFileCount": 5273,
+        "UFullCount": 5571,
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "\/home\/nscdcgov\/public_html\/nssrcc\/.opcache",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/.tmb",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/.well-known",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/.wp-cli",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/ai1wm-backups",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/backups-dup-lite",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/backups-dup-pro",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/backups-dup-pro",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/backupwordpress",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/bps-backup",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/cache",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/content\/cache",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/contents\/cache",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/infinitewp\/backups",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/maintenance",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/managewp\/backups",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/mu-plugins",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/old-cache",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/plugins",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/plugins\/really-simple-captcha\/tmp",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/plugins\/wordfence\/tmp",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/themes",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/themes\/smart-mag",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/updraft",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/upgrade",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/uploads\/aiowps_backups",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/uploads\/backup-guard",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/uploads\/backupbuddy_backups",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/uploads\/backupbuddy_temp",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/uploads\/ithemes-security\/backups",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/uploads\/mainwp\/backup",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/uploads\/pb_backupbuddy",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/uploads\/snapshots",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/uploads\/sucuri",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/uploads\/wp-clone",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/uploads\/wp_all_backup",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/uploads\/wpbackitup_backups",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/wfcache",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/wishlist-backup",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/wpvividbackups",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            ".DS_Store",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/.htaccess",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/.user.ini",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/index.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/license.txt",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/php.ini",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/readme.html",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/web.config",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-activate.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-blog-header.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-comments-post.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-config-sample.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-config.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/index.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/maintenance.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/themes\/index.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-cron.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-links-opml.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-load.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-login.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-mail.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-settings.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-signup.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/wp-trackback.php",
+            "\/home\/nscdcgov\/public_html\/nssrcc\/xmlrpc.php",
+            "dbcache",
+            "debug_log",
+            "error_log",
+            "objectcache",
+            "pgcache",
+            "ws_ftp.log"
+        ],
+        "FilterExtsAll": [],
+        "FilteredCoreDirs": {
+            "16": "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/mu-plugins",
+            "18": "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/plugins",
+            "22": "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/themes"
+        },
+        "FilteredSites": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "Big": "Warn",
+            "AddonSites": "Good",
+            "UnreadableItems": "Good",
+            "showCreateFuncStatus": "Good",
+            "showCreateFunc": true,
+            "HasImportableSites": true,
+            "HasNotImportableSites": false,
+            "HasFilteredCoreFolders": true,
+            "HasFilteredSiteTables": false,
+            "HasFilteredSites": false,
+            "Network": "Good",
+            "IsDBOnly": 0,
+            "PackageIsNotImportable": false
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Subsites": [
+            {
+                "id": 1,
+                "domain": "nssrcc.nscdc.gov.ng",
+                "path": "\/",
+                "blogname": "National Safe Schools Response Coordination Center",
+                "blog_prefix": "Zy9CHRV1u_",
+                "filteredTables": [],
+                "adminUsers": [
+                    {
+                        "ID": "1",
+                        "user_login": "suleiman",
+                        "id": "1"
+                    }
+                ],
+                "fullHomeUrl": "https:\/\/nssrcc.nscdc.gov.ng",
+                "fullSiteUrl": "https:\/\/nssrcc.nscdc.gov.ng",
+                "uploadPath": "wp-content\/uploads",
+                "fullUploadPath": "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/uploads",
+                "fullUploadSafePath": "\/home\/nscdcgov\/public_html\/nssrcc\/wp-content\/uploads",
+                "fullUploadUrl": "https:\/\/nssrcc.nscdc.gov.ng\/wp-content\/uploads",
+                "filteredPaths": []
+            }
+        ]
+    },
+    "SRV": {
+        "Brand": {
+            "LogoAttachmentExists": false,
+            "LogoCount": 0,
+            "LogoFinded": 0,
+            "LogoImageExists": true,
+            "LogoImages": [],
+            "Name": "Default",
+            "Notes": "The default content used when a brand is not defined"
+        },
+        "HOST": [],
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "openssl": true,
+            "mysqli": true,
+            "allowurlfopen": false,
+            "curlavailable": true,
+            "arch64bit": true,
+            "minMemory": true,
+            "version": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": false,
+            "ismu": false,
+            "ismuplus": false,
+            "ALL": "Warn"
+        }
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "Size": "Good",
+            "Rows": "Good",
+            "Triggers": "Good"
+        },
+        "Size": "30.92MB",
+        "Rows": "11,935",
+        "TableCount": 38,
+        "TableList": {
+            "Zy9CHRV1u_actionscheduler_actions": {
+                "Case": 1,
+                "Rows": "58",
+                "Size": "128KB",
+                "USize": "131072"
+            },
+            "Zy9CHRV1u_actionscheduler_claims": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "Zy9CHRV1u_actionscheduler_groups": {
+                "Case": 1,
+                "Rows": "2",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "Zy9CHRV1u_actionscheduler_logs": {
+                "Case": 1,
+                "Rows": "171",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "Zy9CHRV1u_commentmeta": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "Zy9CHRV1u_comments": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "96KB",
+                "USize": "98304"
+            },
+            "Zy9CHRV1u_duplicator_pro_entities": {
+                "Case": 1,
+                "Rows": "5",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "Zy9CHRV1u_duplicator_pro_packages": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": "65536"
+            },
+            "Zy9CHRV1u_e_events": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "Zy9CHRV1u_e_submissions": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "288KB",
+                "USize": "294912"
+            },
+            "Zy9CHRV1u_e_submissions_actions_log": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "128KB",
+                "USize": "131072"
+            },
+            "Zy9CHRV1u_e_submissions_values": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "Zy9CHRV1u_links": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "Zy9CHRV1u_options": {
+                "Case": 1,
+                "Rows": "371",
+                "Size": "4.11MB",
+                "USize": "4308992"
+            },
+            "Zy9CHRV1u_postmeta": {
+                "Case": 1,
+                "Rows": "9,744",
+                "Size": "15.08MB",
+                "USize": "15810560"
+            },
+            "Zy9CHRV1u_posts": {
+                "Case": 1,
+                "Rows": "1,057",
+                "Size": "9.73MB",
+                "USize": "10207232"
+            },
+            "Zy9CHRV1u_revslider_css": {
+                "Case": 1,
+                "Rows": "109",
+                "Size": "144KB",
+                "USize": "147456"
+            },
+            "Zy9CHRV1u_revslider_css_bkp": {
+                "Case": 1,
+                "Rows": "109",
+                "Size": "144KB",
+                "USize": "147456"
+            },
+            "Zy9CHRV1u_revslider_layer_animations": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "Zy9CHRV1u_revslider_layer_animations_bkp": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "Zy9CHRV1u_revslider_navigations": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "Zy9CHRV1u_revslider_navigations_bkp": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "Zy9CHRV1u_revslider_sliders": {
+                "Case": 1,
+                "Rows": "2",
+                "Size": "64KB",
+                "USize": "65536"
+            },
+            "Zy9CHRV1u_revslider_sliders_bkp": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "Zy9CHRV1u_revslider_slides": {
+                "Case": 1,
+                "Rows": "2",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "Zy9CHRV1u_revslider_slides_bkp": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "Zy9CHRV1u_revslider_static_slides": {
+                "Case": 1,
+                "Rows": "2",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "Zy9CHRV1u_revslider_static_slides_bkp": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "Zy9CHRV1u_termmeta": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "Zy9CHRV1u_terms": {
+                "Case": 1,
+                "Rows": "29",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "Zy9CHRV1u_term_relationships": {
+                "Case": 1,
+                "Rows": "32",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "Zy9CHRV1u_term_taxonomy": {
+                "Case": 1,
+                "Rows": "29",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "Zy9CHRV1u_usermeta": {
+                "Case": 1,
+                "Rows": "31",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "Zy9CHRV1u_users": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": "65536"
+            },
+            "Zy9CHRV1u_wpforms_entries": {
+                "Case": 1,
+                "Rows": "23",
+                "Size": "64KB",
+                "USize": "65536"
+            },
+            "Zy9CHRV1u_wpforms_entry_fields": {
+                "Case": 1,
+                "Rows": "132",
+                "Size": "64KB",
+                "USize": "65536"
+            },
+            "Zy9CHRV1u_wpforms_entry_meta": {
+                "Case": 1,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "Zy9CHRV1u_wpforms_tasks_meta": {
+                "Case": 1,
+                "Rows": "27",
+                "Size": "16KB",
+                "USize": "16384"
+            }
+        },
+        "FilteredTables": []
+    },
+    "Status": 1
+}

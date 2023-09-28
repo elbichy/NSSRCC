@@ -1,0 +1,213 @@
+# Copyright (C) 2023 WPForms Conversational Forms
+# This file is distributed under the same license as the WPForms Conversational Forms package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Conversational Forms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"POT-Creation-Date: 2023-03-24 17:26+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. translators: %s - WPForms.com documentation page URL.
+#: wpforms-conversational-forms.php:97
+msgid "The WPForms Conversational Forms plugin has been deactivated. Your site is running an outdated version of PHP that is no longer supported and is not compatible with the Conversational Forms addon. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Read more</a> for additional information."
+msgstr ""
+
+#. translators: Minimum required WPForms version.
+#: wpforms-conversational-forms.php:127
+msgid "The WPForms Conversational Forms plugin has been deactivated because it requires WPForms v%s or later to work."
+msgstr ""
+
+#: src/Frontend.php:371
+msgid "Type or select an option"
+msgstr ""
+
+#: src/Frontend.php:372
+msgid "No suggestions found"
+msgstr ""
+
+#: src/Frontend.php:373
+msgid "<strong>Enter</strong> to select option"
+msgstr ""
+
+#: src/Frontend.php:725
+msgid "Choose File"
+msgstr ""
+
+#: src/Frontend.php:728
+msgid "No file chosen"
+msgstr ""
+
+#: src/Frontend.php:747
+msgid "Loading..."
+msgstr ""
+
+#: src/Frontend.php:753, src/Frontend.php:1034
+msgid "powered by"
+msgstr ""
+
+#: src/Frontend.php:787
+msgid "Start"
+msgstr ""
+
+#: src/Frontend.php:789, src/Frontend.php:856
+msgid "press <strong>Enter</strong>"
+msgstr ""
+
+#: src/Frontend.php:815, src/Admin/Builder.php:61, src/Admin/Builder.php:342
+msgid "Form Logo"
+msgstr ""
+
+#: src/Frontend.php:854
+msgid "Done"
+msgstr ""
+
+#: src/Frontend.php:866
+msgid "<strong>Enter</strong> or <strong>&#x2B07;</strong> to go to the next field"
+msgstr ""
+
+#: src/Frontend.php:875
+msgid "<strong>Shift+Enter</strong> to make a line break"
+msgstr ""
+
+#: src/Frontend.php:884
+msgid "<strong>Tab</strong> or <strong>&#x2B07;</strong> to switch the line"
+msgstr ""
+
+#: src/Frontend.php:893
+msgid "<strong>Shift+Enter</strong> to open file"
+msgstr ""
+
+#: src/Frontend.php:902
+msgid "<strong>Shift+Enter</strong> to go to the next field"
+msgstr ""
+
+#. translators: %1$s - Number of fields completed; %2$s - Number of fields in total.
+#: src/Frontend.php:961
+msgid "%1$s of %2$s completed"
+msgstr ""
+
+#: src/Frontend.php:971
+msgid "Form completed"
+msgstr ""
+
+#. translators: %s - Percentage of fields completed.
+#: src/Frontend.php:988
+msgid "%s%% completed"
+msgstr ""
+
+#: src/Admin/Builder.php:59
+msgid "Conversational Forms cannot be enabled if Form Pages is enabled at the same time."
+msgstr ""
+
+#: src/Admin/Builder.php:60
+msgid "OK"
+msgstr ""
+
+#: src/Admin/Builder.php:62
+msgid "Select or Upload Form Custom Logo"
+msgstr ""
+
+#: src/Admin/Builder.php:63
+msgid "Use this media"
+msgstr ""
+
+#: src/Admin/Builder.php:64
+msgid "Conversational Forms cannot be enabled because your form contains a Layout field."
+msgstr ""
+
+#: src/Admin/Builder.php:108, src/Admin/Builder.php:128
+msgid "Conversational Forms"
+msgstr ""
+
+#: src/Admin/Builder.php:131
+msgid "Preview Conversational Form"
+msgstr ""
+
+#. translators: %s - Permalink Settings page URL.
+#: src/Admin/Builder.php:143
+msgid "Heads up! To use Conversational Forms, please configure your site's permalinks on the WordPress <a href=\"%s\">Permalink Settings</a> page."
+msgstr ""
+
+#: src/Admin/Builder.php:163
+msgid "Enable Conversational Form Mode"
+msgstr ""
+
+#: src/Admin/Builder.php:173
+msgid "Conversational Form Title"
+msgstr ""
+
+#: src/Admin/Builder.php:181
+msgid "Message"
+msgstr ""
+
+#: src/Admin/Builder.php:186
+msgid "This content will display below the Conversational Form Title, above the form."
+msgstr ""
+
+#: src/Admin/Builder.php:195
+msgid "Permalink"
+msgstr ""
+
+#: src/Admin/Builder.php:201
+msgid "This is the URL for your Conversational Form."
+msgstr ""
+
+#: src/Admin/Builder.php:210
+msgid "Header Logo"
+msgstr ""
+
+#: src/Admin/Builder.php:215
+msgid "This is a custom logo displayed above the form title."
+msgstr ""
+
+#: src/Admin/Builder.php:224
+msgid "Hide WPForms Branding"
+msgstr ""
+
+#: src/Admin/Builder.php:234
+msgid "Color Scheme"
+msgstr ""
+
+#: src/Admin/Builder.php:238
+msgid "This is the color of the submit button and the page background."
+msgstr ""
+
+#: src/Admin/Builder.php:247
+msgid "Progress Bar"
+msgstr ""
+
+#: src/Admin/Builder.php:252
+msgid "Percentage"
+msgstr ""
+
+#: src/Admin/Builder.php:255
+msgid "Proportion"
+msgstr ""
+
+#: src/Admin/Builder.php:258
+msgid "This is a Progress Bar style."
+msgstr ""
+
+#: src/Admin/Builder.php:365
+msgid "Upload Image"
+msgstr ""
+
+#: src/Admin/Builder.php:388
+msgid "View"
+msgstr ""
+
+#: src/Admin/Overview.php:54
+msgid "View Conversational Form"
+msgstr ""
+
+#: src/Admin/Overview.php:55
+msgid "Conversational Form Preview"
+msgstr ""
